@@ -5,5 +5,5 @@ Implementation of a debbuging suite
 
 ```
 make
-./my-dbg <binary>
+./my-dbg <binary> <args>
 ```
