@@ -1,0 +1,8 @@
+https://i.imgflip.com/7gembr.jpg
+
+
+Notes for strace bonus :
+
+The syscall filtering is done via command line :
+If you only provide a binary to trace then strace behaves normally
+otherwise, all arguments after -e are treated as syscall filters.
